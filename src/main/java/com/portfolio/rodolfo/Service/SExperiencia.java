@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.portfolio.luca.Service;
+package com.portfolio.rodolfo.Service;
 
-import com.portfolio.luca.Entity.Experiencia;
-import com.portfolio.luca.Repository.RExperiencia;
+import com.portfolio.rodolfo.Entity.Experiencia;
+import com.portfolio.rodolfo.Repository.RExperiencia;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

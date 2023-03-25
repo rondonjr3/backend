@@ -4,7 +4,7 @@
  */
 package com.portfolio.rodolfo.Repository;
 
-import com.portfolio.luca.Entity.Acerca;
+import com.portfolio.rodolfo.Entity.Acerca;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

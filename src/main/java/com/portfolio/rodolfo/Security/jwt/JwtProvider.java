@@ -5,7 +5,7 @@
 package com.portfolio.rodolfo.Security.jwt;
 
 
-import com.portfolio.luca.Security.Entity.UsuarioPrincipal;
+import com.portfolio.rodolfo.Security.Entity.UsuarioPrincipal;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;

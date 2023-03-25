@@ -1,8 +1,8 @@
-rodolfo/*
+/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.portfolio.luca.Security.Controller;
+package com.portfolio.rodolfo.Security.Controller;
 
 import com.portfolio.rodolfo.Security.Dto.JwtDto;
 import com.portfolio.rodolfo.Security.Dto.LoginUsuario;
